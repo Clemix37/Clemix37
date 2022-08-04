@@ -1,4 +1,4 @@
-### Hi there 👋
+# Clément THERET - H4ckw1s3r
 
 <!--
 **Clemix37/Clemix37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Useful Stats
+
+![H4ckw1s3r GitHub stats](https://github-readme-stats.vercel.app/api?username=clemix37&count_private=true&show_icons=true&theme=synthwave)
