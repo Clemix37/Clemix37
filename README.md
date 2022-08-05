@@ -1,5 +1,9 @@
 # Clément THERET - H4ckw1s3r
 
+French FullStack Developer. 
+My favorite language is JavaScript. I use NodeJS, Electron, MongoDB, Mongoose, C#.
+My goal is to be freelance and help clients !
+
 <!--
 **Clemix37/Clemix37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
