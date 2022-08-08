@@ -1,7 +1,7 @@
 # Clément THERET - H4ckw1s3r
 
-French FullStack Developer. 
-My favorite language is JavaScript. I use NodeJS, Electron, MongoDB, Mongoose, C#.
+French FullStack Developer.  
+My favorite language is JavaScript. I use NodeJS, Electron, MongoDB, Mongoose, C#.  
 My goal is to be freelance and help clients !
 
 <!--
