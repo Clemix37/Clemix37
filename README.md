@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 ## Useful Stats
 
 ![H4ckw1s3r GitHub stats](https://github-readme-stats.vercel.app/api?username=clemix37&count_private=true&show_icons=true&theme=synthwave)
+
+## Sponsor
+
+If you like my work, don't forget to [sponsor](https://github.com/sponsors/Clemix37) !  
+That would mean a lot to me.
