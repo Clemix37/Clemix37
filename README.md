@@ -1,7 +1,8 @@
 <div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Clément THERET </h1> </div>
 
 # About Me
-French Fullstack Developer. Currently working on improving payment method for accountants.  
+French Fullstack Developer.  
+Currently working on improving payment method for accountants.  
 I LOVE JS ! ❤️‍🔥
 
 
