@@ -1,7 +1,7 @@
 <div align="center"><h1> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Hello, i am Clément THERET </h1> </div>
 
 # About Me
-French Fullstack Developer.  
+Fullstack Developer.  
 Currently working on improving payment method for accountants.  
 I LOVE JS ! ❤️‍🔥
 
@@ -41,7 +41,7 @@ I LOVE JS ! ❤️‍🔥
 ## Sponsor
 
 If you like my work, don't forget to [sponsor](https://github.com/sponsors/Clemix37) !  
-Or if you prefer you can buy me a coffee !  
+Or if you prefer you can buy me a pizza !  
 <a href="https://www.buymeacoffee.com/h4ckw1s3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 That would mean a lot to me.
 
