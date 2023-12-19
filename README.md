@@ -48,10 +48,10 @@ I LOVE JS ! ❤️‍🔥
 </details>
 
 # Latest Youtube Videos
+- [Capturing keyboard events - No talking - JS](https://www.youtube.com/watch?v=pove18DXa9Q)
 - [Are JavaScript Frameworks REALLY necessary ?](https://www.youtube.com/watch?v=1uFotpv6R_0)
 - [Learning JavaScript made easier with this | JS](https://www.youtube.com/watch?v=RFx3b8TNmoA)
 - [Whoops ! JS did it again !?](https://youtu.be/mGv7_taD4Iw)
-- [Capturing keyboard events - No talking - JS](https://www.youtube.com/watch?v=pove18DXa9Q)
 
 ➡️ [more videos...](https://www.youtube.com/@CyberDevWeb/videos)
 
