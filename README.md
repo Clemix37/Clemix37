@@ -2,7 +2,7 @@
 
 # About Me
 Husband since 2023 !  
-Fullstack Developer - Lead JS. ❤️‍🔥  
+Fullstack Developer - Lead JS/TS. ❤️‍🔥  
 Currently working on improving payment method for accountants.  
 
 
