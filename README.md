@@ -1,4 +1,4 @@
-<div align="center"><h1> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Hello, i am Clément ~ CyberWebDev </h1> </div>
+<div align="center"><h1> <img src="https://github.com/Clemix37/Clemix37/blob/main/img/wings.gif" width="32px"/> Hello, i am Clément ~ CyberWebDev </h1> </div>
 
 # About Me
 Husband since 2023 !  
@@ -40,13 +40,16 @@ Currently working on improving payment method for accountants.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=Clemix37&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=Clemix37&hide_border=false&include_all_commits=false&count_private=true)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Clemix37&hide_border=false)  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemix37&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
 # Latest Youtube Videos
+- [📂 Master File Uploads with Fetch API & FormData Like a Pro ! 🚀](https://www.youtube.com/watch?v=6WBniTjcwWE)
+- [Adding Functionality To Task Manager - No Talking](https://www.youtube.com/watch?v=IrAU3hEWzWo)
+- [The Javascript bug internet relies on !](https://www.youtube.com/watch?v=PWgUVfpxDdM)
 - [Capturing keyboard events - No talking - JS](https://www.youtube.com/watch?v=pove18DXa9Q)
 - [Are JavaScript Frameworks REALLY necessary ?](https://www.youtube.com/watch?v=1uFotpv6R_0)
 - [Learning JavaScript made easier with this | JS](https://www.youtube.com/watch?v=RFx3b8TNmoA)
@@ -56,21 +59,33 @@ Currently working on improving payment method for accountants.
 
 ## Connect with me
 
-[![website](./img/globe-light.svg)](https://cyberwebdev.fr#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://cyberwebdev.fr#gh-dark-mode-only)
+<a href="https://cyberwebdev.fr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/globe-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/globe-light.svg">
+    <img width="24" style="object-fit:content" alt="LinkedIn">
+  </picture>
+</a>
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@CyberDevWeb#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@CyberDevWeb#gh-dark-mode-only)
+<a href="https://www.youtube.com/@CyberDevWeb">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/youtube-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/youtube-light.svg">
+    <img width="24" style="object-fit:content" alt="LinkedIn">
+  </picture>
+</a>
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/WebdevCyber#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/WebdevCyber#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/clement-theret#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/clement-theret#gh-dark-mode-only)
+<a href="https://linkedin.com/in/clement-theret">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg">
+    <img width="24" style="object-fit:content" alt="LinkedIn">
+  </picture>
+</a>
 
 ## Sponsor
 
 If you like my work, don't forget to [sponsor](https://github.com/sponsors/Clemix37) !  
 Or if you prefer you can buy me a pizza !  
-<a href="https://www.buymeacoffee.com/h4ckw1s3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
+<a href="https://www.buymeacoffee.com/h4ckw1s3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  
 That would mean a lot to me.
