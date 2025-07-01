@@ -56,16 +56,6 @@ Currently working on improving payment method for accountants.
 [![Arrow Functions made easy !](https://ytcards.demolab.com/?id=8_33keaQK0E&title=Arrow+Functions+made+easy+%21&lang=en&timestamp=1733944148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Arrow Functions made easy !")](https://www.youtube.com/shorts/8_33keaQK0E)
 <!-- END YOUTUBE-CARDS -->
 
-
-
-- [📂 Master File Uploads with Fetch API & FormData Like a Pro ! 🚀](https://www.youtube.com/watch?v=6WBniTjcwWE)
-- [Adding Functionality To Task Manager - No Talking](https://www.youtube.com/watch?v=IrAU3hEWzWo)
-- [The Javascript bug internet relies on !](https://www.youtube.com/watch?v=PWgUVfpxDdM)
-- [Capturing keyboard events - No talking - JS](https://www.youtube.com/watch?v=pove18DXa9Q)
-- [Are JavaScript Frameworks REALLY necessary ?](https://www.youtube.com/watch?v=1uFotpv6R_0)
-- [Learning JavaScript made easier with this | JS](https://www.youtube.com/watch?v=RFx3b8TNmoA)
-- [Whoops ! JS did it again !?](https://youtu.be/mGv7_taD4Iw)
-
 ➡️ [more videos...](https://www.youtube.com/@CyberDevWeb/videos)
 
 ## Connect with me
