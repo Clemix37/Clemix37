@@ -48,7 +48,12 @@ Currently working on improving payment method for accountants.
 
 # Latest Youtube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Your Godot game needs a custom cursor (Here’s how)](https://ytcards.demolab.com/?id=1T8z5cWeAxw&title=Your+Godot+game+needs+a+custom+cursor+%28Here%E2%80%99s+how%29&lang=en&timestamp=1771869605&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97 "Your Godot game needs a custom cursor (Here’s how)")](https://www.youtube.com/watch?v=1T8z5cWeAxw)
+[![This Godot trick makes UI prototyping way faster](https://ytcards.demolab.com/?id=XzaVtiK10ag&title=This+Godot+trick+makes+UI+prototyping+way+faster&lang=en&timestamp=1770660040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=49 "This Godot trick makes UI prototyping way faster")](https://www.youtube.com/watch?v=XzaVtiK10ag)
+[![This Game Reached Its Limit (And That’s Okay)](https://ytcards.demolab.com/?id=T7W0aDylcLo&title=This+Game+Reached+Its+Limit+%28And+That%E2%80%99s+Okay%29&lang=en&timestamp=1770051651&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=163 "This Game Reached Its Limit (And That’s Okay)")](https://www.youtube.com/watch?v=T7W0aDylcLo)
+[![I Tried to Make a "Simple" Cozy Game… It Almost Made Me Quit](https://ytcards.demolab.com/?id=5kCyh4b62tc&title=I+Tried+to+Make+a+%22Simple%22+Cozy+Game%E2%80%A6+It+Almost+Made+Me+Quit&lang=en&timestamp=1769371203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136 "I Tried to Make a \"Simple\" Cozy Game… It Almost Made Me Quit")](https://www.youtube.com/watch?v=5kCyh4b62tc)
+[![Variable assignment but on steroids](https://ytcards.demolab.com/?id=1u9_-uUiS-o&title=Variable+assignment+but+on+steroids&lang=en&timestamp=1751469301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240 "Variable assignment but on steroids")](https://www.youtube.com/watch?v=1u9_-uUiS-o)
+[![A new portfolio using Next.js and supabase #shorts](https://ytcards.demolab.com/?id=C063Yno7fho&title=A+new+portfolio+using+Next.js+and+supabase+%23shorts&lang=en&timestamp=1742573701&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30 "A new portfolio using Next.js and supabase #shorts")](https://www.youtube.com/shorts/C063Yno7fho)
 <!-- END YOUTUBE-CARDS -->
 
 ➡️ [more videos...](https://www.youtube.com/@CyberDevWeb/videos)
